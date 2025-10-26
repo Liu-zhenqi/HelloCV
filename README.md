@@ -12,17 +12,17 @@
 [学习笔记](https://www.yuque.com/liubaibai-ffmn8/rwbhv3/pm70ntd4urgw0iu6?singleDoc# 《第三周 OpenCV 学习报告》)
 # 项目介绍
 ## 项目结构
-|--Traffictrack/
-        |---------colorTrack.cpp
-        |---------trafficTrack,cpp
-        |---------CMakeLists.txt
-        |---------result.avi
-        |---------opencv小测试/
-        |		|--------TrafficLight.mp4
-        |		|--------输出示例.avi
-        |		|--------GreenAndRed.png
-        |		|--------red.png
-        |----------build/
+|-Traffictrack/
+        |-colorTrack.cpp
+        |-trafficTrack,cpp
+        |-CMakeLists.txt
+        |-result.avi
+        |-opencv小测试/
+        |	|-rafficLight.mp4
+        |	|-输出示例.avi
+        |	|-GreenAndRed.png
+        |	|-red.png
+        |-build/
  
 ## 所需要的配置
 1. cmake 3.10及以上
