@@ -8,22 +8,9 @@
 [cmake](https://www.yuque.com/liubaibai-ffmn8/rwbhv3/aamayv5qvw5vpxkg)
 [docker](https://www.yuque.com/liubaibai-ffmn8/rwbhv3/ymudmqs8snoyfvzl)
 ## 第三周
-[实践任务](https://www.yuque.com/liubaibai-ffmn8/rwbhv3/pgu0bmr70wpgx2vt?singleDoc# 《2025211255 刘振齐 第三周 OpenCV 实践报告 )
-[学习笔记](https://www.yuque.com/liubaibai-ffmn8/rwbhv3/pm70ntd4urgw0iu6?singleDoc# 《第三周 OpenCV 学习报告》)
+[实践任务](https://www.yuque.com/liubaibai-ffmn8/rwbhv3/pgu0bmr70wpgx2vt)
+[学习笔记](https://www.yuque.com/liubaibai-ffmn8/rwbhv3/pm70ntd4urgw0iu6)
 # 项目介绍
-## 项目结构
-|-Traffictrack/
-        |-colorTrack.cpp
-        |-trafficTrack,cpp
-        |-CMakeLists.txt
-        |-result.avi
-        |-opencv小测试/
-        |	|-rafficLight.mp4
-        |	|-输出示例.avi
-        |	|-GreenAndRed.png
-        |	|-red.png
-        |-build/
- 
 ## 所需要的配置
 1. cmake 3.10及以上
 2. C++17及以上
