@@ -1,0 +1,3 @@
+/home/liubai/HelloCV/Traffictrack/build/CMakeFiles/trafficTrack.dir
+/home/liubai/HelloCV/Traffictrack/build/CMakeFiles/edit_cache.dir
+/home/liubai/HelloCV/Traffictrack/build/CMakeFiles/rebuild_cache.dir
