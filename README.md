@@ -10,13 +10,5 @@
 ## 第三周
 [实践任务](https://www.yuque.com/liubaibai-ffmn8/rwbhv3/pgu0bmr70wpgx2vt)
 [学习笔记](https://www.yuque.com/liubaibai-ffmn8/rwbhv3/pm70ntd4urgw0iu6)
-# 项目介绍
-## 所需要的配置
-1. cmake 3.10及以上
-2. C++17及以上
-3. 安装OpenCV
-## 介绍
-1. 本程序会识别红绿灯，并用**相应颜色**矩形框圈出，用相应颜色的英文单词在视频的左上角表示出来
-2. 本程序会输出一个结果result.avi,并保存到相应目录当中。
-3. 其中colorTrack.cpp用于找到红色和绿色的HSV值。（CMakeLists中没有包含该程序）。
-
+## 第四周
+[ros2学习笔记](https://www.yuque.com/liubaibai-ffmn8/rwbhv3/hk8rsvte6gkccpwd)
